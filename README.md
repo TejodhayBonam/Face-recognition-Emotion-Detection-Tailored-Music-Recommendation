@@ -1,4 +1,4 @@
-# Face-recognition-with-emotion-detection-and-music-recommender
+# Face recognition, Emotion Detection and Tailored Music Recommendation
 
 This repository contains code for face recognition and corresponding emotion detection. After the emotion is detected, it makes song recommmendations based on that emotion. An external piece of code is provided to directly make a spotify playlist of the recommended songs. 
 
@@ -12,4 +12,4 @@ https://drive.google.com/drive/folders/1cPspeYF-pNeSrrG3wpfi90X5l2BSAwmc?usp=sha
 
 An end to end spotify based recommendation system coming up soon! Stay tuned
 
-<p align='center'>Made with :heart: by Bhuvan Aggarwal </p>
+<!-- <p align='center'>Made with :heart: by Tejodhay </p> -->
