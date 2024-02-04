@@ -58,8 +58,6 @@ The entire project works perfectly fine. Live detection gives good frame rates d
 - utils.py is an utility module for video streaming of web camera with threads to enable real time detection.
 - train.py is the script for image processing and training the model.
 
-# Variant:
-- Tkinter version of this app along with steps to run it is available <a href = "https://github.com/aj-naik/Emotion-Music-Recommendation/tree/tkinter">here</a>.
 
 # Issue:
 The app in current state can't be deployed on web as:
